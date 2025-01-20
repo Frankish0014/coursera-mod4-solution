@@ -44,6 +44,7 @@
   byeSpeaker.speak = function (nume) {
     console.log(speakWord + " " + nume);
   };
-
+// I studied how to make changes on a local repo from github, and committ the changes back to github.
   globalThis.byeSpeaker = byeSpeaker;
 })();
+
